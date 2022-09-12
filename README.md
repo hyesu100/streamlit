@@ -1,2 +1,2 @@
-# ordinary
-Streamlit test
+# streamlit
+Streamlit ordinary
